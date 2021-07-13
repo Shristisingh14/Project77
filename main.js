@@ -1,0 +1,16 @@
+var firstname="Punam ";
+var secondname="Singh";
+var fullname=firstname.concat(secondname);
+console.log(fullname);
+var length=fullname.length;
+console.log(length);
+var newname=fullname.toUpperCase();
+console.log(newname);
+var newname2=fullname.toLowerCase();
+console.log(newname2);
+var sroot=Math.sqrt(81);
+console.log(sroot);
+var maximum=Math.max(112,593);
+console.log(maximum);
+var minimum=Math.min(99,98);
+console.log(minimum);
